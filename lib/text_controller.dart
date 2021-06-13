@@ -21,7 +21,7 @@ class _TextControllerState extends State<TextController> {
               });
             },
             child: Text('Chage Text'),
-            color: Colors.blue,
+            color: Colors.purple,
             textColor: Colors.white,
           ),
         ],
